@@ -1,0 +1,24 @@
+# Blender 4.4.3 MTL File: 'None'
+# www.blender.org
+
+newmtl Heart_Tex
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd models/realistic-human-heart/textures/hart_UV_low01_BaseColor.hart_UV_low_defaultMat.png
+map_Ns models/realistic-human-heart/textures/hart_UV_low01_Roughness.hart_UV_low_defaultMat.png
+map_refl models/realistic-human-heart/textures/hart_UV_low01_Metalness.hart_UV_low_defaultMat.png
+map_Bump -bm 1.000000 models/realistic-human-heart/textures/hart_UV_low01_Normal.hart_UV_low_defaultMat.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd models/realistic-human-heart/textures/hart_UV_low01_BaseColor.hart_UV_low_defaultMat.png
